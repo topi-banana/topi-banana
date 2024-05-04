@@ -4,6 +4,11 @@ I'm mine.
 
 誰のことも信用できませんごめんなさい。
 
+Team member for:
+  @TaichiServer
+  @SinaKitagami
+  @SawashiroBot
+
 # 🏆 My Stat
 
 <p align="left">
