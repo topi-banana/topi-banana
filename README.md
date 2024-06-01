@@ -5,7 +5,6 @@ I'm mine.
 誰のことも信用できませんごめんなさい。
 
 Team member for:
-<br>[@TaichiServer](https://github.com/TaichiServer)
 <br>[@SinaKitagami](https://github.com/SinaKitagami)
 <br>[@SawashiroBot](https://github.com/SawashiroBot)
 
