@@ -5,6 +5,7 @@ I'm mine.
 誰のことも信用できませんごめんなさい。
 
 Team member for:
+<br>[@Vulpeus-Server](https://github.com/Vulpeus-Server)
 <br>[@SinaKitagami](https://github.com/SinaKitagami)
 <br>[@SawashiroBot](https://github.com/SawashiroBot)
 
